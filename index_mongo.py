@@ -3,7 +3,7 @@
 # FILENAME: index_mongo.py
 # SPECIFICATION: Driver program
 # FOR: CS 4250- Assignment #2
-# TIME SPENT: 
+# TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
 
 from pymongo import MongoClient  # import mongo client to connect
